@@ -1,4 +1,4 @@
-# <p align="center"> Calculadora Universal em C <Font size="7px"> &#x1F5A9; </Font></p> <center> ![logo_linguagem_C](c.png) </center>
+# <p align="center"> Calculadora Universal em C <Font size="7px"> &#x1F5A9; </Font></p> <p align="center"> ![logo_linguagem_C](c.png) </p>
 
 > Tipo de Projeto: <Font color="#8fbde3"> Pessoal &#x1F4DA; </Font>
 
@@ -33,7 +33,7 @@ O projeto consiste em uma calculadora com diversas funcionalidades básicas feit
 <p>Durante o ciclo de vida do programa, é retornado para o usuário um menu de opções com uma linha de comando, onde ele poderá navegar entre as funcionalidades até iniciar uma função desejada.</p>
 
 ![tela_inicial](tela_inicial.png)
-<Font size="2"><center>*Menu Inicial do Programa*</Font></center>
+<Font size="1"><p align="center">*Menu Inicial do Programa*</p></Font>
 
 <p>A calculadora possui 3 principais grupos de funcionalidades:</p>
 
